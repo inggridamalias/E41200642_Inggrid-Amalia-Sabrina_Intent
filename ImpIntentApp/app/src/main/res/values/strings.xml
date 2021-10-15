@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImpIntentApp</string>
+    <string name="edittext_uri">http://jti.polije.ac.id/elearning/?redirect=0</string>
+    <string name="button_website">Open Website</string>
+</resources>
