@@ -4,7 +4,8 @@ NIM : E41200642
 
 NAMA : INGGRID AMALIA SABRINA
 
-SCREENSHOT HASIL
+[https://github.com/inggridamalias/E41200642_Inggrid-Amalia-Sabrina_Intent/tree/main/Screenshot/Explicit%20Intent]
+(url)[https://github.com/inggridamalias/E41200642_Inggrid-Amalia-Sabrina_Intent/tree/main/Screenshot/Implicit%20Intent](url)
 
 ![IMG_20211015_203500](https://user-images.githubusercontent.com/80300877/137497596-bdc82023-17ce-4f6a-ac76-48764b85abee.jpg)
 
