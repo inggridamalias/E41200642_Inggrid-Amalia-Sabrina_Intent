@@ -6,7 +6,7 @@ NAMA : INGGRID AMALIA SABRINA
 
 SCREENSHOT HASIL
 
-![IMG_20211015_203500](https://user-images.githubusercontent.com/80300877/137497596-bdc82023-17ce-4f6a-ac76-48764b85abee.jpg {width=40px height=4s0px})
+![IMG_20211015_203500](https://user-images.githubusercontent.com/80300877/137497596-bdc82023-17ce-4f6a-ac76-48764b85abee.jpg)
 
 ![IMG_20211015_203529](https://user-images.githubusercontent.com/80300877/137497600-73ee7600-7331-4b1e-b40d-b0a1dffafcdf.jpg)
 
